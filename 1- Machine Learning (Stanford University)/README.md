@@ -28,14 +28,38 @@ While there are no strict prerequisites for the course, a basic understanding of
 
 The course includes weekly programming assignments to reinforce the concepts learned. Here are the titles of each week's assignments:
 
-1. Week 1: Linear Regression
-2. Week 2: Logistic Regression
-3. Week 3: Multi-class Classification and Neural Networks
-4. Week 4: Neural Networks Learning
-5. Week 5: Regularized Linear Regression and Bias/Variance
-6. Week 6: Support Vector Machines
-7. Week 7: K-means Clustering and Principal Component Analysis
-8. Week 8: Anomaly Detection and Recommender Systems
+1. Week 1: Introduction, Model and Cost Function, Parameter Learningand Linear Algebra
+  - There was no PAs in this week
+
+2. Week 2: Multivariate Linear Regression
+  - [PA 1 - Linear Regression]
+
+3. Week 3: Classification, Logistic Regression, Multiclass Classification and Overfitting
+  - [PA 2 - Logistic Regression]
+
+4. Week 4: Neural Networks
+  - [PA 3 - Multi-class Classification and Neural Networks]
+
+5. Week 5: Cost Function and Backpropagation
+  - [PA 4 - Neural Network Learning]
+
+6. Week 6: Evaluating a Learning Algorithm, Bias vs. Variance and Error Analysis
+  - [PA 5 - Regularized Linear Regression and Bias/Variance]
+
+7. Week 7: Large Margin Classification, Kernels, and SVMs
+  - [PA 6 - Support Vector Machines]
+
+8. Week 8: Unsupervised Learning (Clustering and PCA)
+  - [PA 7 - K-Means Clustering and PCA]
+
+9. Week 9: Anomaly Detection and Collaborative Filtering
+  - [PA 8 - Anomaly Detection and Recommender System]
+
+10. Week 10: Gradient Descent with Large Datasets
+  - There was no PAs in this week
+
+11. Week 11: Photo OCR
+  - There was no PAs in this week
 
 ## Contributing
 
