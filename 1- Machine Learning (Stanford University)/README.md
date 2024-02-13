@@ -12,7 +12,6 @@ The course covers a wide range of topics, including:
 
 - Supervised learning
 - Unsupervised learning
-- Reinforcement learning
 - Linear regression
 - Logistic regression
 - Support vector machines
