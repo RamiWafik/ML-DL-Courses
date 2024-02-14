@@ -15,12 +15,12 @@ In this section, you can see a list of the machine learning and deep learning co
 - Course 1: Machine Learning (Stanford University)
   - Description: This course provides an introduction to machine learning algorithms and techniques. Topics covered include linear regression, logistic regression, neural networks, and support vector machines.
   - Institution: Stanford University
-  - Course URL: [Course Website](https://www.example.com)
+  - Course URL: Course was removed and repplaced with [Machine Learning Specialization](https://www.coursera.org/specializations/machine-learning-introduction).
 
 - Course 2: Deep Learning Specialization (Coursera)
   - Description: This specialization covers deep learning techniques and applications. Topics covered include neural networks, convolutional neural networks, recurrent neural networks, and generative adversarial networks.
   - Institution: Coursera
-  - Course URL: [Course Website](https://www.example.com)
+  - Course URL: [Course Website](https://www.coursera.org/specializations/deep-learning)
 
 ## Usage
 
