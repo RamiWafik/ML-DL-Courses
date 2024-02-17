@@ -22,6 +22,11 @@ In this section, you can see a list of the machine learning and deep learning co
   - Institution: Coursera
   - Course URL: [Course Website](https://www.coursera.org/specializations/deep-learning)
 
+- Course 3: Machine Learning Specialization (Coursera)
+  - Description: This specialization covers basics of Machine Learning types and techniques. Topics covered include linear regression, logistic regression, regression and classification, unsupervised learning, recommender systems, and reinforcement learning.
+  - Institution: Coursera
+  - Course URL: [Course Website](https://www.coursera.org/specializations/machine-learning-introduction)
+
 ## Usage
 
 1. Clone the repository:
