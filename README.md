@@ -27,15 +27,18 @@ In this section, you can see a list of the machine learning and deep learning co
   - Institution: Coursera
   - Course URL: [Course Website](https://www.coursera.org/specializations/machine-learning-introduction)
 
+- Course 4: Natural Language Processing Specialization (Coursera)
+  - Description: This specialization is a series of courses that cover various topics in Natural Language Processing (NLP).
+  - Institution: Coursera
+  - Course URL: [Course Website](https://www.coursera.org/specializations/natural-language-processing)
+
 ## Usage
 
 1. Clone the repository:
    
-   git clone https://github.com/RamiWadik/your-repository.git
+   git clone https://github.com/RamiWafik/ML-DL-Courses.git
    
-2. Navigate to the desired assignment directory:
-   
-   cd course1/assignment1
+2. Navigate to the desired assignment directory
 
 3. Install the required dependencies:
    
